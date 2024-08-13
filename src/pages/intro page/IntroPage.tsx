@@ -20,10 +20,8 @@ export default function IntroPage() {
 
           <br />
 
-          <p className="IntroPage_body_p">
-            ช่วยให้คุณสามารถแปลงข้อมูลที่อยู่ในภาพใบเสร็จชำระเงิน
-          </p>
-          <p className="IntroPage_body_p">ให้มาอยู่ในรูปแบบไฟล์ csv</p>
+          <p className="IntroPage_body_p">ช่วยให้คุณสามารถแปลงข้อมูลที่อยู่ในรูปภาพใบกำกับภาษี</p>
+          <p className="IntroPage_body_p">Lotus, Big C และ Makro ให้มาอยู่ในรูปแบบไฟล์ csv</p>
           <p className="IntroPage_body_p">ได้อย่างง่ายดาย</p>
 
           <br />
